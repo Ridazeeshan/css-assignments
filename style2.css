@@ -1,0 +1,72 @@
+.head{
+    display: flex;
+    gap: 150px;
+    font-size: 29px
+}
+.bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 0 60px;
+    height: 60px;
+}
+.links{
+    list-style: none;
+    display: flex;
+    color: rgb(6, 136, 136);
+    font-size: larger;
+}
+li{
+    margin: 0 45px;
+    font-size: 35px;
+}
+a{
+    color: rgb(83, 182, 182);
+}
+h2{
+    color: rgb(22, 9, 9);
+    font-size: 40px;
+    margin: auto;
+}
+
+.two{
+    background: linear-gradient(rgb(95, 207, 207) ,rgb(183, 202, 202)) ;
+    height: 60px;
+}
+.pp{
+    font-size: 10px;
+}
+.one{
+    background: linear-gradient(rgb(236, 148, 163) ,rgb(189, 40, 64));
+    margin: 30px;
+    border: 1px solid black; 
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 10px;
+    width: 700px; 
+}
+.form{
+    background: linear-gradient(rgb(174, 104, 214) , rgb(71, 52, 122));
+    margin: 30px;
+    border: 1px solid black; 
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+    color: rgb(39, 39, 39);
+    width: 700px;
+}
+
+.tips{
+    background: linear-gradient(rgb(124, 150, 235) , rgb(38, 73, 148));
+    margin: 30px;
+    border: 1px solid black; 
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 10px;
+    color: rgb(39, 39, 39);
+    width: 700px ;
+}
+.imp{
+    display: flex;
+}
